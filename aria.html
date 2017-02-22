@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>SI 552 ARIA Demo</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="main.css">
+</head>
+<body>
+	<div class="card">
+		<p class="minutes align--center" tabindex="0">
+			<span class="minutes-elapsed">77</span>
+			<span aria-label="minutes into play">
+				<span aria-hidden="true">'</span>
+			</span>
+		</p>
+		<div class="match-score" aria-live="polite" aria-atomic="true">
+			<div class="row score score--home" tabindex="0">
+				<div class="col-6">Real Madrid</div><!--
+				--><div class="col-6 align--right">2</div>
+			</div>
+			<div class="row score score--away" tabindex="0">
+				<div class="col-6">Sevilla</div><!--
+				--><div class="col-6 align--right">1</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+	<script src="aria.js"></script>
+</body>
+</html>

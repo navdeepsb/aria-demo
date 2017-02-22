@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 1em;
+}
+
+body {
+	font-family: "Roboto";
+}
+
+.col-6 {
+	width: 50%;
+	display: inline-block;
+}
+
+.row {
+	padding: 5px 0;
+}
+
+.card {
+	max-width: 400px;
+	padding: 10px;
+	margin: 20px auto;
+	background: #fafafa;
+	border-radius: 4px;
+	box-shadow: 0 2px 0 #fff, 0 8px 0 #eee;
+}
+
+.card p {
+	margin: 0;
+}
+
+.card p.minutes {
+	font-size: 0.9rem;
+	margin-bottom: 20px;
+}
+
+.card .score {
+	font-size: 1.1rem;
+}
+
+.card a {
+	color: #000;
+}
+
+.card .details {
+	margin-top: 10px;
+	padding: 5px;
+	min-height: 100px;
+	background: #e5e5e5;
+	border-radius: 4px;
+}
+
+.align--center {
+	text-align: center;
+}
+
+.align--right {
+	text-align: right;
+}
