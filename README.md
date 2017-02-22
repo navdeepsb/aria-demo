@@ -1,6 +1,6 @@
 # ARIA Demo
 
-This is a demomstration of making a simple widget accessible via screen reader. The demonstration employs `aria-abel`, `aria-live` and `aria-atomic` taking example of a live soccer match score ticker.
+This is a demonstration of making a simple widget accessible via screen reader. The demonstration employs `aria-label`, `aria-live` and `aria-atomic` attributes by taking example of a live soccer match score ticker. Demo also includes dynamic aria attribute updates by JavaScript.
 
 #### Screen Reader
 [NVDA](https://www.nvaccess.org/) was used for the demo.
