@@ -6,10 +6,11 @@ This is a demonstration of making a simple widget accessible via screen reader. 
 [NVDA](https://www.nvaccess.org/) was used for the demo.
 
 #### UMich
-Presented in SI-552 (Technology & Accessibility) at University of Michigan on Nov 3, 2016 (Fall 2016).
+Presented in SI-552 (Technology & Accessibility) class at University of Michigan on Nov 3, 2016 (Fall 2016).
 
 #### Author
-[Navdeep Singh Bagga](mailto:navdeepb@umich.edu "navdeepb@umich.edu")
-M.S. Candidate in Information, 2018
-School of Information
+
+[Navdeep Singh Bagga](mailto:navdeepb@umich.edu "navdeepb@umich.edu")<br />
+M.S. Candidate in Information, 2018<br />
+School of Information<br />
 University of Michigan, Ann Arbor
